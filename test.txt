@@ -1,5 +1,9 @@
-Hello there!
+Hello there! It's nice this class !
 
 Git courses with generation 13 
 
 Just trying !!
+
+
+
+Exit..
