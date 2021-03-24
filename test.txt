@@ -7,3 +7,18 @@ Just trying !!
 
 
 Exit..
+
+
+I am making changes!
+
+Hello World
+
+Hello everobody 
+
+
+
+
+Always be kind!
+
+
+console.log(Hi)
