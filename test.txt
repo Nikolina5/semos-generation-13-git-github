@@ -23,4 +23,6 @@ Always be kind!
 
 console.log(Hi)
 
-New chage did my colleque!
+New change did my colleque!
+
+Line
