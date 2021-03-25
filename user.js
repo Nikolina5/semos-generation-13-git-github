@@ -1,1 +1,0 @@
-console.log(Hello World i am student at Semos)
